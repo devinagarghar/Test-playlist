@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:123, Sample Artist - Sample Title
-/sample/path/to/song1.mp3
-#EXTINF:456, Another Artist - Another Title
-/sample/path/to/song2.mp3
-#EXTINF:789, Third Artist - Third Title
-/sample/path/to/song3.mp3
+
+#EXTINF:-1,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-2,ION Plus
+https://jmp2.uk/stvp-USBD300003LK
+

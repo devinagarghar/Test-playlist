@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:123, Sample Artist - Sample Title
+/sample/path/to/song1.mp3
+#EXTINF:456, Another Artist - Another Title
+/sample/path/to/song2.mp3
+#EXTINF:789, Third Artist - Third Title
+/sample/path/to/song3.mp3
